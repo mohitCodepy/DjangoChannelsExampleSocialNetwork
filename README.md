@@ -2,7 +2,7 @@
 
 This is an example real-time Social built using [DjangoChannelsRestFramework](https://github.com/hishnash/djangochannelsrestframework).
 
-See our [blog](https://lostmoa.com/blog/ARealtimeSocialNetworkExample/) for a detail breakdown of this example and other Django related posts.
+See our [blog](https://lostmoa.com/blog/BuildingARealtimeSocialNetworkUsingDjangoChannels/) for a detail breakdown of this example and other Django related posts.
 
 ## Running this example server
 
